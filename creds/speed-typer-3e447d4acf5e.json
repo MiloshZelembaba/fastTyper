@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "speed-typer-183103",
+  "private_key_id": "3e447d4acf5e3813592adb4402ddb19cb30b8fc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3osRVqEJjWOdC\naPXMBmZe0xsuzs1NQnd8YxzMr3db+qqVQFYqciB7NxQXjMnyyMs9UoBpPO8+QC8e\nJacXXjS+9Uq0Q/rWK2mhiRmjQnOmeRYzUkrvnQ6u4iDELnixcN6DUVbQIsv1igQw\nA9tbnFbdI6LJ08BwAZ/s84H9feqDd1bUGcEKf3jpCh0/gF09eUCsnqJhDpG+EV4W\nTNemIa8ps/hXBxvyePBCwbKaq//a4TTIg0siam9Ep74LfWyRvU2YOUR4IglV5qe/\nERCsHwx/qjYBYwvUfHJxUmuwjO3Rd9DUHD0hOaLXLaEa0SdGpeNzoR2nhW7QlyCN\nGZnb5LJXAgMBAAECggEAOXiExqQCpvH3albL+j7Ugf/CpZsOMIxJNdIU/NA7ZDtm\ncJByhxUxqi46KQakW0nRJY9w5b6ux0YyGNbC3PLcQhkleJY/5hAvHmF4dxpAdIy3\n0HcEQcpfAod9prg+iJXg5asqprgFKgK4PcivOZQLsWjKNS0CsGspwHATMiDaqKrE\neAz6WPRrKOVYRnWerkDZBzPSTEV/w8qPcOIEbBwWp1KYbDdWOAaOrG1lntEhTTxv\nOhRCGqIZON+3pSvwHJGre/GgOaPkKPQc2qQKUF/m8TaTF9UCKobonrCxI2YsWXEw\nGYeyjK8y1CT1UDXXulP37BVj73NeyobOBn2QZtoktQKBgQDZ+7uU/hOZOTxzsClc\nTlVZCWUlpj9r9yW0F+3tvpnUA0yZZdDR6yQOr7oA9LIe1OvpJAcG1RxLsCza95jZ\nG380tsrv9FOUv9DHpP/7Rvye6zHhOXg5ZUEwoSeqGLMnr6j9HnJAK9jCJt6BlrGR\nM+2ZgpxdyIGDErdSgQkTYS3COwKBgQDXqYaZws8WS5Pb2ZfUkg9M/gXAc+RvJThF\npM+XkbbwW2crCM4QX1pwawUfRrIz+FzsQM8dusIpaL70RBhVOSYWqemLZgfVv/A/\nEEBdHUOJiwpFwr4R5uvJPdGNwB/SoXk8NSBxJKlB2isLzkxoYf48329Azl4W/bco\nk84WjaeSlQKBgGAI6K6OdYH21mw9eytgk3djjT1WDfD59JFwTXGFnG3sei3GzoX9\nK2iRAMh1BZhRxBF1vubCsvGhj1F07dEQrS1DLwsiQERzcX7Tcbd5ocg95D7Ou+nF\nc0ACb+Afe6aLXE8Pv9QHvTpkN3kuM9K95vrPsSYcNPrTHxLpKF9yW9+LAoGAf/Vp\nFLBeuQbMyyQ3Dvw+sdsCxKa+wieeVMwuE+t0VPaWpxUJVvOMsKj/GAiVUXqqf88Q\nVL5r16/7pOkGWwKWk9nq5Tf7rBq/TFuzJMxpNyHVTYD3z51pBzVzsZxuBUajrVKE\nVj1/Y8AzzERyV3jVJX8Y/qWzdAbD9wKDxCP2amUCgYAD9A5EC61uHq6Cfpf4iTm+\nBDLem3I8rosN9d0vBVOpKUt01lWUGdATFb9ld03jBVxuY2mwc/A5/3/4Cx0SlPuH\n+LGkRr+vd26FxOoW3OxnaWUGIa7p6H43Zx/w+DKCEz/aug0hiA0nZsT7gq3BHYUC\nKN0r+uexMh+TA8uqpqYwmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-758@speed-typer-183103.iam.gserviceaccount.com",
+  "client_id": "116677230746889726989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-758%40speed-typer-183103.iam.gserviceaccount.com"
+}
