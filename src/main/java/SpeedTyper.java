@@ -18,6 +18,8 @@ import java.util.Random;
  * Created by miloshzelembaba on 2017-10-16.
  */
 public class SpeedTyper {
+    // due to the randomness i incorporated in the typing speed below, this doesn't directly correlate to the desired
+    // wpm. increasing this tho will increase the speed.
     final static double desiredWordsPerMinute = 170;
     final static double mistakesProbability = 0.05;
 
@@ -28,6 +30,7 @@ public class SpeedTyper {
         // Open typeracer
         driver.get("http://play.typeracer.com/");
 
+        // put this sleep in here to allow the user to log in to their account
         try{
             Thread.sleep(20000);
         } catch (Exception e){
@@ -62,10 +65,6 @@ public class SpeedTyper {
                     }
                 }
             }
-//
-//        WebElement timeTillGameStart = (new WebDriverWait(driver, 1))
-//                .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//span[@class='time']")));
-//        driver.wait(Integer.parseInt(timeTillGameStart.getText()));
 
             // get the text input area
             WebElement text_input = (new WebDriverWait(driver, 25))
